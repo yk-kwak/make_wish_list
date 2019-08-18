@@ -33,6 +33,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
             TextView_title = v.findViewById(R.id.TextView_title);
             TextView_contents = v.findViewById(R.id.TextView_contents);
             ImageView_title = v.findViewById(R.id.ImageView_title);
+            //
         }
     }
 
